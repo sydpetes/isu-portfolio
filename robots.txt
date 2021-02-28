@@ -1,0 +1,4 @@
+# Robots.txt file for student portfolio
+
+User-agent: *
+Disallow: /
