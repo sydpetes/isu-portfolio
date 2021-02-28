@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Robots.txt file for student portfolio
 
 User-agent: *
 Disallow: /
+=======
+User-agent: *
+Disallow: /
+>>>>>>> e2b57d88af2f04ce7cee0cf5f0170d97f32070d3
