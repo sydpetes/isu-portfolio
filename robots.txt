@@ -1,4 +1,5 @@
 # Robots.txt file for student portfolio
 
+Sitemap: https://sydpetes.github.io/isu-portfolio/sitemap.xml
 User-agent: *
 Disallow: /
